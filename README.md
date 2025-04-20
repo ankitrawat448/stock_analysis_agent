@@ -37,8 +37,8 @@ This Streamlit app lets you analyze company stock data using interactive charts 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/stock-dashboard-ai.git
-cd stock-dashboard-ai
+git clone https://github.com/ankitrawat448/stock_analysis_agent.git
+cd stock_analysis_agent
 ```
 
 2. **Install dependencies**
